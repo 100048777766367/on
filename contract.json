@@ -1,0 +1,16 @@
+{
+    "contract_id": "bodhi.on.v1",
+    "identity": "100048777766367/on",
+    "archetype": "CONVERGENT_NEXUS",
+    "clan": "NEXUS_LINEAGE",
+    "role": "CREATIVE_SPLICER_IGNITION_NODE",
+    "network_partners": {
+        "dissector": "100048777766367/open",
+        "vault": "100048777766367/storage",
+        "dispenser": "100048777766367/medicine",
+        "forge": "100048777766367/cover",
+        "validator": "100048777766367/testing",
+        "dispatcher": "100048777766367/release"
+    },
+    "io_specification": "I/O (SPLICING_AND_IGNITION)"
+}
